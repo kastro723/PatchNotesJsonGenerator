@@ -52,7 +52,7 @@
 
 
        [실행화면]
-    <img width="1307" height="1043" alt="image" src="https://github.com/user-attachments/assets/ba81b410-2f61-4e93-a6be-4e54963d7a14" /> 
+   <img width="1307" height="1043" alt="image" src="https://github.com/user-attachments/assets/ba81b410-2f61-4e93-a6be-4e54963d7a14" /> 
 
 
        [주의사항]
@@ -81,7 +81,7 @@
     
 
        [Json 파일 구조 예시]
-       <img width="1191" height="747" alt="image" src="https://github.com/user-attachments/assets/92eb2424-dd6a-4468-a5f2-ecb3d625400e" />
+   <img width="1191" height="747" alt="image" src="https://github.com/user-attachments/assets/92eb2424-dd6a-4468-a5f2-ecb3d625400e" />
 
 
     
