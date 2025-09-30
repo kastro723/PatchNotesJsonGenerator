@@ -1,4 +1,5 @@
 # PatchNotesJsonGenerator
+ 
   [개요]
     Unity Editor에서 한국어 패치 노트를 입력하면 Google Cloud Translation API를 사용해 
     22개 언어로 자동 번역하고 번역된 패치노트를 Json 형식으로 출력 및 자동 생성하는 도구이다.
