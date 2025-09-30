@@ -80,7 +80,7 @@
          (패치노트 파일 폴더 위치) Assets/Resources/UpdateLogs
     
 
-       [Json 파일 구조 예시]
+       [Json  출력 예시]
  <img width="1191" height="747" alt="image" src="https://github.com/user-attachments/assets/92eb2424-dd6a-4468-a5f2-ecb3d625400e" />
 
 
